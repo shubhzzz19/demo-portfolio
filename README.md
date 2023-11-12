@@ -1,6 +1,6 @@
 # About 
 
-![Project Pic](https://github.com/shubhzzz19/demo-portfolio/assets/73218792/b4c7dc1b-9245-4f1e-a9f8-679db09cbe03)
+<img width="1104" alt="Project Pic" src="https://github.com/shubhzzz19/demo-portfolio/assets/73218792/24d2820a-b0bc-431b-bdb3-363e2e2b9c61">
 
 
 1. Implemented CI/CD pipeline with Git Actions
